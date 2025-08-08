@@ -4,7 +4,7 @@
 
 Um projeto moderno e elegante que simula a presença digital de um restaurante, combinando um design responsivo com funcionalidades interativas e acessíveis.
 
-## 🖼️ Demonstração Visual
+## 🖥️ Demonstração Visual
 
 Explore a versatilidade do tema com uma prévia da interface nos modos claro e escuro.
 
